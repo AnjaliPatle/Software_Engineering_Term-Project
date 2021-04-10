@@ -1,6 +1,6 @@
 # TERM PROJECT: Software Engineering 
 
-6th semester, Computer Science and Engineering
+6th semester, Computer Science and Engineering.
 
 
 Team Members:
